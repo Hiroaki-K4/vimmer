@@ -1,1 +1,2 @@
-Delete more than one word
+Practical Vim, by Drew Neil
+Read Drew Neil's Practical Vim.6174573872309
